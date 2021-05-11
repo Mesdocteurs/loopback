@@ -1,6 +1,6 @@
 {
   "name": "loopback",
-  "version": "3.28.0",
+  "version": "3.28.1",
   "description": "LoopBack: Open Source Framework for Node.js",
   "homepage": "http://loopback.io",
   "keywords": [
@@ -53,7 +53,6 @@
     "loopback-filters": "^1.0.0",
     "loopback-phase": "^3.0.0",
     "nodemailer": "^6.4.16",
-    "nodemailer-direct-transport": "^3.3.2",
     "nodemailer-stub-transport": "^1.1.0",
     "serve-favicon": "^2.2.0",
     "stable": "^0.1.5",
@@ -87,7 +86,7 @@
     "karma-firefox-launcher": "^1.0.0",
     "karma-html2js-preprocessor": "^1.0.0",
     "karma-junit-reporter": "^1.2.0",
-    "karma-mocha": "^1.1.1",
+    "karma-mocha": "^2.0.1",
     "karma-script-launcher": "^1.0.0",
     "loopback-boot": "^2.7.0",
     "loopback-context": "^1.0.0",
@@ -102,7 +101,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback"
+    "url": "https://github.com/Mesdocteurs/loopback.git"
   },
   "browser": {
     "express": "./lib/browser-express.js",
